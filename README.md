@@ -8,7 +8,7 @@ Feel free to check all you want!
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joaopedro.loss)
 [<img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/joaoloss/)
 
-### 💻 Tech Stack Highlights
+### 📊 Tech Stack Highlights
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloss&layout=compact&hide_border=true&theme=dark" />
 </p>
