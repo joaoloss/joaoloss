@@ -1,8 +1,6 @@
 ## Welcome! I'm João Loss 
 💻 Here I publish what I'm learning and building.
 
-I'm currently focusing my studies on **data science** and, more specifically, **machine learning**. But you can find something else here.
-
 Feel free to check all you want!
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joaopedro.loss)
